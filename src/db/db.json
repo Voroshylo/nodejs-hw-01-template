@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "d8988b86-9c15-48dc-96aa-09a27919f36c",
+    "name": "Julie Monahan",
+    "phone": "590-835-2422 x32847",
+    "email": "Joel60@hotmail.com",
+    "job": "Future Optimization Associate"
+  },
+  {
+    "id": "d53b8bc3-4765-4765-8298-e003ab914b04",
+    "name": "Ella West",
+    "phone": "318.702.2898 x43753",
+    "email": "Ronny.Tremblay@gmail.com",
+    "job": "Corporate Usability Designer"
+  },
+  {
+    "id": "663788c3-b77c-4f22-b65f-711ff9f8c39b",
+    "name": "Dr. Harry Stokes",
+    "phone": "1-590-902-0641 x36215",
+    "email": "Josue_Hodkiewicz-Borer59@hotmail.com",
+    "job": "Lead Operations Developer"
+  },
+  {
+    "id": "4b95defd-6d1a-41c8-867c-1ad9f46c8701",
+    "name": "Lorraine Adams",
+    "phone": "435.659.8941 x4724",
+    "email": "Daisha.Bernier@hotmail.com",
+    "job": "Chief Group Designer"
+  }
+]
